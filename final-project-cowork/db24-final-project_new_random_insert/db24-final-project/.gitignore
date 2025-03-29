@@ -1,0 +1,26 @@
+### Eclipse ###
+.settings/
+.metadata/
+.recommenders
+.classpath
+.project
+
+### Build artifacts ###
+target/
+
+### IntelliJ ###
+.idea/
+*.iml
+
+### vscode settings directory ###
+.vscode
+
+### macOS specific files  ###
+.DS_Store
+
+### Others ###
+design
+
+db/
+report/
+sift.txt

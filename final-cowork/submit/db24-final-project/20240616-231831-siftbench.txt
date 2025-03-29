@@ -1,0 +1,5 @@
+# of txns (including aborted) during benchmark period: 100
+INSERT - committed: 7, aborted: 0, avg latency: 2 ms
+ANN - committed: 93, aborted: 0, avg latency: 65 ms
+Recall: 56.22%
+TOTAL - committed: 100, aborted: 0, avg latency: 61 ms
